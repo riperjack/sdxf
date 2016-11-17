@@ -158,7 +158,6 @@
     <ClCompile Include="DXWrapper.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="Scene.cpp" />
-    <ClCompile Include="Input.cpp" />
     <ClCompile Include="Window.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -182,7 +181,6 @@
   <ItemGroup>
     <ClInclude Include="Cube.h" />
     <ClInclude Include="DXWrapper.h" />
-    <ClInclude Include="Input.h" />
     <ClInclude Include="Scene.h" />
     <ClInclude Include="Window.h" />
   </ItemGroup>
